@@ -1,3 +1,6 @@
 [submodule "deps/ipfs"]
 	path = deps/ipfs
 	url = https://github.com/ipfs/specs
+[submodule "deps/nanomsg"]
+	path = deps/nanomsg
+	url = https://github.com/nanomsg/nanomsg/
