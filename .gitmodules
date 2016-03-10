@@ -1,0 +1,3 @@
+[submodule "deps/ipfs"]
+	path = deps/ipfs
+	url = https://github.com/ipfs/specs
